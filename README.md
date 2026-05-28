@@ -25,10 +25,12 @@ This project is an interactive Power BI dashboard built using Superstore Sales d
 ## Screenshots
 
 ### Dashboard Overview
-[![Dashboard](screenshots/dashboard1.png)](https://github.com/AdityaSingh05092004/Superstore-Sales-Analysis/blob/66102c03e76271b87cd473a92832c37dfc438290/superstore-Sales-Dashboard1.png)
+<img width="635" height="356" alt="superstore-Sales-Dashboard1" src="https://github.com/user-attachments/assets/92ccffcd-658c-46fb-94bb-ed9df5a92ceb" />
+
 
 ### Sales Analysis
-[![Sales](screenshots/dashboard2.png)](https://github.com/AdityaSingh05092004/Superstore-Sales-Analysis/blob/66102c03e76271b87cd473a92832c37dfc438290/superstore-Sales-Dashboard2.png)
+<img width="653" height="368" alt="superstore-Sales-Dashboard2" src="https://github.com/user-attachments/assets/766668cc-8833-4cf3-b1cf-a71edc54e407" />
+
 
 ## Files Included
 - `superstore_Sales_Analysis.pbix`
